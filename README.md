@@ -43,3 +43,5 @@ The environment is considered solved, when the average (over 100 episodes) of th
 + `model.py` - file that contains the deep neural networks (DNN) architectures used by the agent
 + `checkpoint_actor.pth` and `checkpoint_critic.pth` - files that with saved DNN’s weights, that solved the environment.
 
+### Project Approach 
+The notebook `Tennis.ipynb` contains the code to set up the environment and the outer episode iteration to solve the reinforcement problem. Our solution uses a Multi-agent Deep Deterministic Policy Gradient (DDPG) approach with experience replay. The detailed implementation are shown in `report.pdf`.
