@@ -8,7 +8,7 @@
 
 ### Introduction
 
-For this project, you will work with the [Tennis](https://github.com/Unity-Technologies/ml-agents/blob/master/docs/Learning-Environment-Examples.md#tennis) environment.
+For this project, we work with the [Tennis](https://github.com/Unity-Technologies/ml-agents/blob/master/docs/Learning-Environment-Examples.md#tennis) environment using deep reinforcement learning algorithms.
 
 ![Trained Agent][image1]
 
