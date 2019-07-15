@@ -5,7 +5,7 @@
 
 
 # Project 3: Collaboration and Competition
-
+[![Project passed](https://img.shields.io/badge/project-passed-success.svg)](https://img.shields.io/badge/project-passed-success.svg)
 ### Introduction
 
 For this project, we work with the [Tennis](https://github.com/Unity-Technologies/ml-agents/blob/master/docs/Learning-Environment-Examples.md#tennis) environment and solve the problem using deep reinforcement learning based models for multi-agent continuous controls and actions.
